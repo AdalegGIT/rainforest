@@ -1,7 +1,4 @@
-# README
-
-This README would normally document whatever steps are necessary to get a good understanding about
-application your going to build.
+# Assignment
 
 ### Background knowledge:
 
@@ -32,7 +29,9 @@ application your going to build.
 
 Before you begin coding, take some time to read these user stories in order to get a sense of what you're going to be making.
 
-As a user...
+Build a new rails appliaction in which encompasses the following user stories.
+
+As a User...
 
 1. On the homepage I am presented with a list of all the products and a link to create a new product. a. Each product in the list is displayed with its name, description, and price, and has a link to go to its show page.
 
