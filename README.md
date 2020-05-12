@@ -29,7 +29,7 @@
 
 Before you begin coding, take some time to read these user stories in order to get a sense of what you're going to be making.
 
-Build a new rails appliaction in which encompasses the following user stories.
+Build a new rails appliaction which encompasses the following user stories.
 
 As a User...
 
